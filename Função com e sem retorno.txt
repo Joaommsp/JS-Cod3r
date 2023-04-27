@@ -1,0 +1,1 @@
+A grande diferença entre a função com retorno e a função sem retorno, é que na função com retorno o console.log precisa ser executado fora da função, diretamente na chamada dela. Já na função sem retorno o console.log é executado dentro da função.
